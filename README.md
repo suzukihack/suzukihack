@@ -1,14 +1,12 @@
-<!-- BANNER -->
+<!-- BANNER HACKER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/l0HU7JI1uX0r3F0kY/giphy.gif" width="420"/>
 </p>
 
-# 👾 SISTEMA ONLINE
+# 👾 SISTEMA INVADIDO
 
 ```bash
-> inicializando kernel...
-> carregando módulos ███████████ 100%
-> usuário: root
-> acesso: liberado
-> firewall: ativo
+> iniciando sistema...
+> carregando núcleo █████████████ 100%
+> acesso root: concedido
 > status: online
