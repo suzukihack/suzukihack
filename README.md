@@ -10,3 +10,4 @@
 > carregando núcleo █████████████ 100%
 > acesso root: concedido
 > status: online
+.
